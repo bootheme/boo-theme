@@ -1,6 +1,6 @@
 {
 	"version": 2,
-	"title": "Test",
+	"title": "Classic",
 	"settings": {
 		"color": {
 			"palette": [
@@ -41,14 +41,9 @@
 			"dropCap": false,
 			"fontFamilies": [
 				{
-					"fontFamily": "\"Merriweather\", sans-serif",
-					"name": "Merriweather",
-					"slug": "merriweather"
-				},
-				{
-					"fontFamily": "monospace",
-					"name": "Monospace",
-					"slug": "monospace"
+					"fontFamily": "\"Source Serif Pro\", sans-serif",
+					"name": "Source Serif Pro",
+					"slug": "source-serif-pro"
 				}
 			],
 			"fontSizes": [
