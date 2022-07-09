@@ -114,8 +114,7 @@
 				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)",
-					"fontWeight": "var(--wp--custom--font-weight--bold)",
-					"text-transform": "uppercase",
+					"fontWeight": "var(--wp--custom--font-weight--bold)"
 				}
 			},
 			"core/buttons": {

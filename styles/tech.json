@@ -7,17 +7,17 @@
 				{
 					"name": "Primary",
 					"slug": "primary",
-					"color": "#E84855"
+					"color": "#313E50"
 				},
 				{
 					"name": "Secondary",
 					"slug": "secondary",
-					"color": "#FF9B71"
+					"color": "#3A435E"
 				},
 				{
 					"name": "Tertiary",
 					"slug": "tertiary",
-					"color": "#2D3047"
+					"color": "#6C6F7F"
 				},
 				{
 					"name": "Gray",
